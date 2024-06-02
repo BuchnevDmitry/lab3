@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fv8PKtRM7YrgTilt/5WkvAqzTZxGpwolgVMz8DOrfhIwk+evL/EmDP+REVq6U7AvVZPlKF5eHziVbVJn2ldARA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozorn\\Прочее\\Downloads\\IT.Labs-main\\IT.Labs-main\\lab3\\lab3\\lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozorn\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\ozorn\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\ozorn\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
